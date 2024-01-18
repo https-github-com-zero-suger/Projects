@@ -20,5 +20,6 @@ Do'ppi Detection bu YOLO_v8, Google Colab va Roboflow tool laridan foydalanib O'
 ```
 # Natijalar : 
 <p align=”center”>
-![Screenshot from 2024-01-18 14-51-06](https://github.com/https-github-com-zero-suger/Projects/assets/63332872/7e20e312-a246-455c-92cf-db3a65002df0)
+![Screenshot from 2024-01-18 14-51-06](https://github.com/https-github-com-zero-suger/Projects/assets/63332872/d0f20640-60b0-44cd-b0ce-c62562aab260)
+
 </p>
