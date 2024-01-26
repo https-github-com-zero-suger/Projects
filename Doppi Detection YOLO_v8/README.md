@@ -24,7 +24,7 @@ Do'ppi Detection bu YOLO_v8, Google Colab va Roboflow tool laridan foydalanib O'
 
 # Raxmat NEURONS ga Xush Kelibsiz !!!
 
-![video_detetction](https://github.com/https-github-com-zero-suger/Projects/assets/63332872/9cbe8db2-c3d9-4b8c-a5e4-4ba2aa4fa2bf)
+
 
 ### Yanada Koproq YOLO ni o'rganib chiqing : https://github.com/ultralytics/ultralytics
 
