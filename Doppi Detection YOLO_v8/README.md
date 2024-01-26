@@ -35,6 +35,8 @@ Do'ppi Detection bu YOLO_v8, Google Colab va Roboflow tool laridan foydalanib O'
 
 
 ### Yanada Koproq YOLO ni o'rganib chiqing : https://github.com/ultralytics/ultralytics
+### YOLO model image label qilish : https://app.roboflow.com/
+### Telegram ID : https://t.me/NEURONS199816
 
 URINOV AZIZBEK | 18.01.2024 | K II CO. | Face Identification | South Korea
 
