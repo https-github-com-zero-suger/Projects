@@ -24,8 +24,9 @@ Do'ppi Detection bu YOLO_v8, Google Colab va Roboflow tool laridan foydalanib O'
 
 # Raxmat NEURONS ga Xush Kelibsiz !!!
 
+![video_detetction](https://github.com/https-github-com-zero-suger/Projects/assets/63332872/9cbe8db2-c3d9-4b8c-a5e4-4ba2aa4fa2bf)
 
 ### Yanada Koproq YOLO ni o'rganib chiqing : https://github.com/ultralytics/ultralytics
 
 URINOV AZIZBEK | 18.01.2024 | K II CO. | Face Identification | South Korea
-![video_detetction](https://github.com/https-github-com-zero-suger/Projects/assets/63332872/532dafec-01ef-4b15-ac1b-9d8edf27b6d9)
+
